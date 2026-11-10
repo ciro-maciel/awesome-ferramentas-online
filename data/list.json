@@ -1,0 +1,830 @@
+{
+    "slug": "awesome-ferramentas-online",
+    "campaign": "awesome-ferramentas-online",
+    "linkPrefix": "ferr",
+    "title": "Awesome ferramentas online",
+    "description": "Ferramentas grátis que abrem no navegador, sem instalar: imagem, PDF, texto, código, sites, e-mail, vídeo e vendas.",
+    "intro": "Para quem precisa resolver uma tarefa agora, sem instalar programa nem criar conta. Cada ferramenta abre no navegador e faz o trabalho no plano grátis; quando o grátis tem limite, a descrição diz.",
+    "glossary": "PDF, JSON, JWT, Base64, cron, DNS, SPF, DKIM, DMARC, UTM, QR Code, MCP, GPT, Markdown, S3, SVG, PNG, PSD and every tool name are proper names; keep them.",
+    "topics": [
+        "ferramentas",
+        "tools",
+        "online-tools",
+        "free-tools",
+        "no-signup",
+        "gratis"
+    ],
+    "categories": [
+        {
+            "id": "imagem",
+            "title": "Imagem e design",
+            "description": "Editar, comprimir e gerar imagens sem instalar nada.",
+            "items": [
+                {
+                    "name": "Coolors",
+                    "url": "https://coolors.co/",
+                    "description": "Gera paletas de cores com a barra de espaço.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dados em gráfico",
+                    "url": "https://ciromaciel.click/tools/data-to-chart",
+                    "description": "Gráficos em PNG ou SVG a partir de uma tabela, e carrosséis com PDF e imagens.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Foto no tamanho do Instagram",
+                    "url": "https://mymarketing.click/tools/instagram-image-resizer",
+                    "description": "A sua foto no tamanho do post, do story e do status, sem corte errado.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Gerador de favicon",
+                    "url": "https://ciromaciel.click/tools/generate-favicon",
+                    "description": "Favicon a partir de letras ou imagem, em SVG com modo escuro, ICO, PNG e webmanifest.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Gerador de fundos",
+                    "url": "https://ciromaciel.click/tools/generate-background",
+                    "description": "Fundos e papéis de parede no tamanho exato do banner, do stories, do computador e do celular.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Gerador de QR Code",
+                    "url": "https://mymarketing.click/tools/qr-code-generator",
+                    "description": "O QR Code do seu link, da rede Wi-Fi ou do seu Pix, em SVG e PNG.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Photopea",
+                    "url": "https://www.photopea.com/",
+                    "description": "Editor de imagens no navegador que abre PSD, XCF e Sketch.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Redimensionar imagem",
+                    "url": "https://mymarketing.click/tools/image-resizer",
+                    "description": "Qualquer imagem no tamanho que você precisa, em pixels ou porcentagem, em JPG, PNG ou WebP.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "remove.bg",
+                    "url": "https://www.remove.bg/pt-br",
+                    "description": "Remove o fundo de fotos; a prévia em baixa resolução é grátis.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Remover fundo de imagem",
+                    "url": "https://ciromaciel.click/tools/remove-background",
+                    "description": "A IA roda no navegador, a foto não é enviada e o PNG sai na resolução do original.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Squoosh",
+                    "url": "https://squoosh.app/",
+                    "description": "Comprime e converte imagens no navegador, do Google Chrome Labs.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "SVGOMG",
+                    "url": "https://svgomg.net/",
+                    "description": "Reduz o tamanho de arquivos SVG, com prévia.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "documentos",
+            "title": "PDF e documentos",
+            "description": "Juntar, converter e assinar arquivos.",
+            "items": [
+                {
+                    "name": "CloudConvert",
+                    "url": "https://cloudconvert.com/",
+                    "description": "Converte entre mais de 200 formatos, com cota diária grátis.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "iLovePDF",
+                    "url": "https://www.ilovepdf.com/pt",
+                    "description": "Ferramentas de PDF em português, com limite no plano grátis.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "PDF24 Tools",
+                    "url": "https://tools.pdf24.org/pt/",
+                    "description": "Juntar, dividir, comprimir, converter e assinar PDF, sem cadastro.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Smallpdf",
+                    "url": "https://smallpdf.com/pt",
+                    "description": "Ferramentas de PDF com algumas tarefas grátis por dia.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "texto",
+            "title": "Texto e idioma",
+            "description": "Escrever, revisar, traduzir e contar.",
+            "items": [
+                {
+                    "name": "Contador de caracteres e palavras",
+                    "url": "https://mymarketing.click/tools/word-counter",
+                    "description": "Caracteres com e sem espaço, palavras, tempo de leitura e as frases longas do seu texto.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "DeepL Tradutor",
+                    "url": "https://www.deepl.com/pt-BR/translator",
+                    "description": "Tradutor com limite de texto no plano grátis.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dicio",
+                    "url": "https://www.dicio.com.br/",
+                    "description": "Dicionário online de português.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "LanguageTool",
+                    "url": "https://www.languagetool.org/pt-BR",
+                    "description": "Corretor de gramática e estilo em português.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Texto em slides",
+                    "url": "https://mymarketing.click/tools/text-to-slides",
+                    "description": "Os slides do seu texto, para apresentar em tela cheia ou salvar em PDF.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "dev",
+            "title": "Desenvolvimento",
+            "description": "Para quem mexe com código, dados e APIs.",
+            "items": [
+                {
+                    "name": "Carbon",
+                    "url": "https://carbon.now.sh/",
+                    "description": "Transforma um trecho de código numa imagem para compartilhar.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Codificar e decodificar Base64",
+                    "url": "https://myinfrastructure.click/tools/base64",
+                    "description": "Texto para Base64 e de volta, com Base64url e acentos, no seu navegador.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "crontab.guru",
+                    "url": "https://crontab.guru/",
+                    "description": "Explica uma expressão cron em inglês.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "CyberChef",
+                    "url": "https://gchq.github.io/CyberChef/",
+                    "description": "Codificar, decodificar, converter e analisar dados, do GCHQ britânico.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Decodificar JWT",
+                    "url": "https://myinfrastructure.click/tools/jwt-decoder",
+                    "description": "Cabeçalho, payload e validade de um token, lidos no seu navegador. O token não sai da página.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Explorador de S3",
+                    "url": "https://ciromaciel.click/tools/explore-s3",
+                    "description": "Navega pelas pastas de um bucket S3 e baixa arquivos com as suas chaves, sem servidor no meio.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Formulário de contato em HTML",
+                    "url": "https://mymarketing.click/tools/contact-form-generator",
+                    "description": "Os campos que você escolhe, o código HTML e CSS para colar no site.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Gerador e validador de CPF e CNPJ",
+                    "url": "https://myagents.click/tools/cpf-cnpj-generator",
+                    "description": "Gere CPF e CNPJ válidos para teste, inclusive o CNPJ com letras, ou confira os dígitos de um número.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "JSON Crack",
+                    "url": "https://jsoncrack.com/editor",
+                    "description": "Mostra um JSON como grafo.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "jwt.io",
+                    "url": "https://jwt.io/",
+                    "description": "Decodifica e confere tokens JWT.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "regex101",
+                    "url": "https://regex101.com/",
+                    "description": "Testa expressões regulares e explica cada parte.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Testar expressão cron",
+                    "url": "https://myinfrastructure.click/tools/cron-tester",
+                    "description": "O que uma expressão cron quer dizer e as próximas execuções, em UTC e em horário de Brasília.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Validar e formatar JSON",
+                    "url": "https://myinfrastructure.click/tools/json-validator",
+                    "description": "Validação com linha e coluna do erro, formatação e os campos com o tipo de cada um, no navegador.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "rede",
+            "title": "Sites, domínios e rede",
+            "description": "Conferir se um site, um domínio ou a conexão estão bem.",
+            "items": [
+                {
+                    "name": "Fast.com",
+                    "url": "https://fast.com/pt/",
+                    "description": "Mede a velocidade de download, da Netflix.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Meu site está fora do ar?",
+                    "url": "https://myinfrastructure.click/tools/is-it-down",
+                    "description": "Status, tempo de resposta, HTTPS e redirecionamentos de qualquer site, verificados de fora da sua rede.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "PageSpeed Insights",
+                    "url": "https://pagespeed.web.dev/",
+                    "description": "Mede a velocidade de uma página no celular e no computador, do Google.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Página de status grátis",
+                    "url": "https://myinfrastructure.click/tools/status-page",
+                    "description": "Até cinco endereços verificados agora e desenhados como uma página de status pública.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Qual é o meu IP",
+                    "url": "https://myinfrastructure.click/tools/my-ip",
+                    "description": "O seu IP público, a localização aproximada e o provedor, na hora.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Speedtest",
+                    "url": "https://www.speedtest.net/pt",
+                    "description": "Mede a velocidade da sua conexão.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "SSL Labs",
+                    "url": "https://www.ssllabs.com/ssltest/",
+                    "description": "Testa o certificado e a configuração HTTPS de um site.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Verificar propagação de DNS",
+                    "url": "https://myinfrastructure.click/tools/dns-propagation",
+                    "description": "O que a Cloudflare e o Google respondem hoje para o seu domínio, lado a lado.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Whois de domínio",
+                    "url": "https://myinfrastructure.click/tools/whois",
+                    "description": "Se o domínio está registrado, quando vence, o registrador e o DNS, direto do registro.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "email",
+            "title": "E-mail, privacidade e segurança",
+            "description": "Receber sem expor o seu endereço e conferir se algo vazou.",
+            "items": [
+                {
+                    "name": "E-mail temporário",
+                    "url": "https://ciromaciel.click/tools/receive-email",
+                    "description": "Um endereço na hora para receber o código de um site sem entregar o seu; os e-mails somem em 8 dias.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Gerador de senha forte",
+                    "url": "https://ciromaciel.click/tools/generate-password",
+                    "description": "Senha aleatória de 8 a 64 caracteres, criada no navegador e não guardada.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Have I Been Pwned",
+                    "url": "https://haveibeenpwned.com/",
+                    "description": "Mostra se o seu e-mail apareceu em vazamentos conhecidos.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "mail-tester",
+                    "url": "https://www.mail-tester.com/",
+                    "description": "Dá nota ao seu e-mail antes de cair no spam, com algumas verificações grátis por dia.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Teste de assunto de e-mail",
+                    "url": "https://mymarketing.click/tools/subject-line-tester",
+                    "description": "Como o assunto aparece no celular, onde corta e o que atrapalha.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Verificar SPF, DKIM e DMARC",
+                    "url": "https://myinfrastructure.click/tools/email-dns-check",
+                    "description": "Os registros que decidem se o seu e-mail chega na caixa de entrada, lidos do DNS público e explicados.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "VirusTotal",
+                    "url": "https://www.virustotal.com/",
+                    "description": "Analisa arquivos e links com dezenas de antivírus.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "midia",
+            "title": "Vídeo e áudio",
+            "description": "Gravar, cortar e transcrever.",
+            "items": [
+                {
+                    "name": "Gravar a tela",
+                    "url": "https://myoperations.click/tools/screen-recorder",
+                    "description": "Grave a tela inteira, uma janela ou uma aba, com o microfone, e baixe o vídeo. Sem instalar nada e sem conta.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Tirar foto de um vídeo",
+                    "url": "https://myoperations.click/tools/video-frame",
+                    "description": "Pare o vídeo no segundo certo e baixe o quadro em JPG ou PNG, para capa, miniatura ou post. Mostra duração e resolução.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Transcrever vídeo em texto",
+                    "url": "https://myoperations.click/tools/transcribe-video",
+                    "description": "A fala do vídeo em texto, em português, com a legenda SRT pronta para baixar.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Vocaroo",
+                    "url": "https://vocaroo.com/",
+                    "description": "Grava áudio no navegador e gera um link.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "negocio",
+            "title": "Vendas e redes",
+            "description": "Para quem vende pelo WhatsApp e pelo Instagram.",
+            "items": [
+                {
+                    "name": "Calculadora de preço de venda",
+                    "url": "https://mymarketing.click/tools/price-calculator",
+                    "description": "O preço de venda pela margem que você quer, com taxas e impostos.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Calculadora de taxa de cartão e Pix",
+                    "url": "https://myinfrastructure.click/tools/card-fee-calculator",
+                    "description": "Valor líquido de uma venda e o preço que cobre a taxa, no cartão e no Pix, com a taxa do seu provedor.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Calculadora do Cidadão",
+                    "url": "https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores",
+                    "description": "Corrige valores pela inflação, do Banco Central.",
+                    "tags": [
+                        "gratis",
+                        "oficial"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Gerador de link com UTM",
+                    "url": "https://myoperations.click/tools/utm-builder",
+                    "description": "Monte o link com utm_source, utm_medium e utm_campaign para saber qual post, e-mail ou anúncio trouxe a visita.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Gerador de link de WhatsApp",
+                    "url": "https://mycustomers.click/tools/whatsapp-link",
+                    "description": "O link wa.me com a mensagem já escrita e o QR code para imprimir, na hora.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Limpar lista de contatos",
+                    "url": "https://mycustomers.click/tools/contact-list-cleaner",
+                    "description": "Telefones com +55 e DDD, o nono dígito de volta e os duplicados fora, numa planilha só.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Nome, descrição e regras para grupo",
+                    "url": "https://myoperations.click/tools/community-rules",
+                    "description": "Ideias de nome por tipo de grupo, a descrição e as regras prontas para colar no WhatsApp, Telegram ou Discord.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Página de link na bio",
+                    "url": "https://mymarketing.click/tools/link-in-bio",
+                    "description": "A página com os seus links, vista no celular e pronta para baixar.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "QR Code do WhatsApp",
+                    "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+                    "description": "O QR code que abre a sua conversa no WhatsApp, com a mensagem pronta, para imprimir em PNG ou SVG.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "organizar",
+            "title": "Organizar e pensar",
+            "description": "Mapas, diagramas, listas e horários.",
+            "items": [
+                {
+                    "name": "draw.io",
+                    "url": "https://app.diagrams.net/",
+                    "description": "Diagramas e fluxogramas, salvos onde você escolher.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Excalidraw",
+                    "url": "https://excalidraw.com/",
+                    "description": "Quadro branco com traço à mão, de código aberto.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Fusos horários",
+                    "url": "https://ciromaciel.click/tools/compare-timezones",
+                    "description": "Compara a hora de várias cidades e acha o horário de uma reunião entre fusos.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Mapas mentais",
+                    "url": "https://ciromaciel.click/tools/mindmaps",
+                    "description": "Mapas mentais no navegador, sem cadastro.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "tldraw",
+                    "url": "https://www.tldraw.com/",
+                    "description": "Quadro branco infinito no navegador.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "ia",
+            "title": "IA",
+            "description": "Para entender e usar modelos de linguagem.",
+            "items": [
+                {
+                    "name": "Contador de tokens",
+                    "url": "https://myagents.click/tools/token-counter",
+                    "description": "Cole um texto e veja os tokens e quanto eles ocupam da janela de contexto, no navegador.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Gerador de prompt de agente",
+                    "url": "https://myagents.click/tools/agent-prompt-generator",
+                    "description": "Cinco respostas viram as instruções de um agente, prontas para colar.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Página em Markdown",
+                    "url": "https://ciromaciel.click/tools/web-to-markdown",
+                    "description": "Transforma uma página da web em Markdown limpo, sem menu nem anúncio, pronto para colar numa IA.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Testar um servidor MCP",
+                    "url": "https://myagents.click/tools/mcp-server-test",
+                    "description": "Cole o endereço e veja se ele responde, com quais ferramentas e se pede login.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                },
+                {
+                    "name": "Treine um GPT",
+                    "url": "https://ciromaciel.click/tools/train-gpt",
+                    "description": "Treina um modelo de linguagem pequeno do zero no navegador e mostra os tokens, a atenção e os neurônios.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "arquivos",
+            "title": "Enviar arquivos",
+            "description": "Mandar um arquivo grande sem criar conta.",
+            "items": [
+                {
+                    "name": "PairDrop",
+                    "url": "https://pairdrop.net/",
+                    "description": "Passa arquivos entre aparelhos da mesma rede, de código aberto.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Transfer.it",
+                    "url": "https://transfer.it/",
+                    "description": "Envia arquivos grandes por link, da MEGA.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Wormhole",
+                    "url": "https://wormhole.app/",
+                    "description": "Envia arquivos grandes com criptografia de ponta a ponta e link que expira.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        }
+    ]
+}
