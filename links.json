@@ -450,5 +450,9 @@
   "https://wormhole.app/": {
     "id": "d0b0d9c0-c99e-47e2-b85d-2c12a17578e3",
     "shortUrl": "https://go.mymarketing.click/ferr-wormhole"
+  },
+  "https://link.mercadopago.com.br/ciromaciel": {
+    "id": "08b4fec3-5531-43fe-b07a-34d498547845",
+    "shortUrl": "https://go.mymarketing.click/ferr-apoie"
   }
 }
