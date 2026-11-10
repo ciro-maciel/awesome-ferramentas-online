@@ -1,0 +1,918 @@
+{
+  "slug": "awesome-ferramentas-online",
+  "language": "vi",
+  "title": "Awesome ferramentas online",
+  "description": "Công cụ miễn phí chạy ngay trên trình duyệt, không cần cài đặt: hình ảnh, PDF, văn bản, mã, trang web, email, video và bán hàng.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "imagem",
+      "title": "Hình ảnh và thiết kế",
+      "items": [
+        {
+          "name": "Coolors",
+          "url": "https://coolors.co/",
+          "link": "https://go.mymarketing.click/ferr-coolors",
+          "description": "Tạo bảng màu bằng phím cách.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados em gráfico",
+          "url": "https://ciromaciel.click/tools/data-to-chart",
+          "link": "https://go.mymarketing.click/ferr-dados-em-grafico",
+          "description": "Biểu đồ dạng PNG hoặc SVG từ một bảng, và carousel với PDF và hình ảnh.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Foto no tamanho do Instagram",
+          "url": "https://mymarketing.click/tools/instagram-image-resizer",
+          "link": "https://go.mymarketing.click/ferr-foto-no-tamanho-do-instagram",
+          "description": "Ảnh của bạn đúng kích thước bài đăng, story và trạng thái, không bị cắt sai.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de favicon",
+          "url": "https://ciromaciel.click/tools/generate-favicon",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-favicon",
+          "description": "Favicon từ chữ cái hoặc hình ảnh, dạng SVG có chế độ tối, ICO, PNG và webmanifest.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de fundos",
+          "url": "https://ciromaciel.click/tools/generate-background",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-fundos",
+          "description": "Hình nền và ảnh nền đúng kích thước banner, story, máy tính và điện thoại.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de QR Code",
+          "url": "https://mymarketing.click/tools/qr-code-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-qr-code",
+          "description": "Mã QR cho liên kết, mạng Wi-Fi hoặc Pix của bạn, dạng SVG và PNG.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com/",
+          "link": "https://go.mymarketing.click/ferr-photopea",
+          "description": "Trình chỉnh sửa ảnh trên trình duyệt, mở được PSD, XCF và Sketch.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Redimensionar imagem",
+          "url": "https://mymarketing.click/tools/image-resizer",
+          "link": "https://go.mymarketing.click/ferr-redimensionar-imagem",
+          "description": "Ảnh với kích thước bạn cần, tính bằng pixel hoặc phần trăm, định dạng JPG, PNG hoặc WebP.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "remove.bg",
+          "url": "https://www.remove.bg/pt-br",
+          "link": "https://go.mymarketing.click/ferr-remove-bg",
+          "description": "Xóa nền ảnh; bản xem trước độ phân giải thấp miễn phí.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Remover fundo de imagem",
+          "url": "https://ciromaciel.click/tools/remove-background",
+          "link": "https://go.mymarketing.click/ferr-remover-fundo-de-imagem",
+          "description": "AI chạy trên trình duyệt, ảnh không được gửi đi và PNG xuất ra với độ phân giải gốc.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app/",
+          "link": "https://go.mymarketing.click/ferr-squoosh",
+          "description": "Nén và chuyển đổi ảnh trên trình duyệt, của Google Chrome Labs.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SVGOMG",
+          "url": "https://svgomg.net/",
+          "link": "https://go.mymarketing.click/ferr-svgomg",
+          "description": "Giảm dung lượng tệp SVG, có xem trước.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "documentos",
+      "title": "PDF và tài liệu",
+      "items": [
+        {
+          "name": "CloudConvert",
+          "url": "https://cloudconvert.com/",
+          "link": "https://go.mymarketing.click/ferr-cloudconvert",
+          "description": "Chuyển đổi giữa hơn 200 định dạng, có hạn mức miễn phí hằng ngày.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "iLovePDF",
+          "url": "https://www.ilovepdf.com/pt",
+          "link": "https://go.mymarketing.click/ferr-ilovepdf",
+          "description": "Công cụ PDF tiếng Bồ Đào Nha, có giới hạn ở gói miễn phí.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PDF24 Tools",
+          "url": "https://tools.pdf24.org/pt/",
+          "link": "https://go.mymarketing.click/ferr-pdf24-tools",
+          "description": "Gộp, tách, nén, chuyển đổi và ký PDF, không cần đăng ký.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Smallpdf",
+          "url": "https://smallpdf.com/pt",
+          "link": "https://go.mymarketing.click/ferr-smallpdf",
+          "description": "Công cụ PDF với một số tác vụ miễn phí mỗi ngày.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "texto",
+      "title": "Văn bản và ngôn ngữ",
+      "items": [
+        {
+          "name": "Contador de caracteres e palavras",
+          "url": "https://mymarketing.click/tools/word-counter",
+          "link": "https://go.mymarketing.click/ferr-contador-de-caracteres-e-palavras",
+          "description": "Số ký tự có và không có dấu cách, số từ, thời gian đọc và các câu dài trong văn bản của bạn.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "DeepL Tradutor",
+          "url": "https://www.deepl.com/pt-BR/translator",
+          "link": "https://go.mymarketing.click/ferr-deepl-tradutor",
+          "description": "Dịch thuật có giới hạn độ dài văn bản ở gói miễn phí.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dicio",
+          "url": "https://www.dicio.com.br/",
+          "link": "https://go.mymarketing.click/ferr-dicio",
+          "description": "Từ điển trực tuyến tiếng Bồ Đào Nha.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LanguageTool",
+          "url": "https://www.languagetool.org/pt-BR",
+          "link": "https://go.mymarketing.click/ferr-languagetool",
+          "description": "Công cụ kiểm tra ngữ pháp và văn phong tiếng Bồ Đào Nha.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Texto em slides",
+          "url": "https://mymarketing.click/tools/text-to-slides",
+          "link": "https://go.mymarketing.click/ferr-texto-em-slides",
+          "description": "Slide từ văn bản của bạn, để trình chiếu toàn màn hình hoặc lưu thành PDF.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dev",
+      "title": "Phát triển phần mềm",
+      "items": [
+        {
+          "name": "Carbon",
+          "url": "https://carbon.now.sh/",
+          "link": "https://go.mymarketing.click/ferr-carbon",
+          "description": "Chuyển một đoạn mã thành hình ảnh để chia sẻ.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Codificar e decodificar Base64",
+          "url": "https://myinfrastructure.click/tools/base64",
+          "link": "https://go.mymarketing.click/ferr-codificar-e-decodificar-base64",
+          "description": "Chuyển văn bản sang Base64 và ngược lại, với Base64url và ký tự có dấu, trên trình duyệt của bạn.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "crontab.guru",
+          "url": "https://crontab.guru/",
+          "link": "https://go.mymarketing.click/ferr-crontab-guru",
+          "description": "Giải thích biểu thức cron bằng tiếng Anh.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CyberChef",
+          "url": "https://gchq.github.io/CyberChef/",
+          "link": "https://go.mymarketing.click/ferr-cyberchef",
+          "description": "Mã hóa, giải mã, chuyển đổi và phân tích dữ liệu, của GCHQ Anh.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decodificar JWT",
+          "url": "https://myinfrastructure.click/tools/jwt-decoder",
+          "link": "https://go.mymarketing.click/ferr-decodificar-jwt",
+          "description": "Header, payload và thời hạn của một token, đọc trên trình duyệt của bạn. Token không rời khỏi trang.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Explorador de S3",
+          "url": "https://ciromaciel.click/tools/explore-s3",
+          "link": "https://go.mymarketing.click/ferr-explorador-de-s3",
+          "description": "Duyệt các thư mục của bucket S3 và tải tệp bằng khóa của bạn, không có máy chủ ở giữa.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Formulário de contato em HTML",
+          "url": "https://mymarketing.click/tools/contact-form-generator",
+          "link": "https://go.mymarketing.click/ferr-formulario-de-contato-em-html",
+          "description": "Các trường bạn chọn, mã HTML và CSS để dán vào trang web.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador e validador de CPF e CNPJ",
+          "url": "https://myagents.click/tools/cpf-cnpj-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-e-validador-de-cpf-e-cnpj",
+          "description": "Tạo CPF và CNPJ hợp lệ để kiểm thử, kể cả CNPJ có chữ, hoặc kiểm tra các chữ số của một số.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "JSON Crack",
+          "url": "https://jsoncrack.com/editor",
+          "link": "https://go.mymarketing.click/ferr-json-crack",
+          "description": "Hiển thị JSON dưới dạng đồ thị.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "jwt.io",
+          "url": "https://jwt.io/",
+          "link": "https://go.mymarketing.click/ferr-jwt-io",
+          "description": "Giải mã và kiểm tra token JWT.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "regex101",
+          "url": "https://regex101.com/",
+          "link": "https://go.mymarketing.click/ferr-regex101",
+          "description": "Kiểm thử biểu thức chính quy và giải thích từng phần.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Testar expressão cron",
+          "url": "https://myinfrastructure.click/tools/cron-tester",
+          "link": "https://go.mymarketing.click/ferr-testar-expressao-cron",
+          "description": "Giải thích biểu thức cron và các lần chạy tiếp theo, theo UTC và giờ Brasília.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Validar e formatar JSON",
+          "url": "https://myinfrastructure.click/tools/json-validator",
+          "link": "https://go.mymarketing.click/ferr-validar-e-formatar-json",
+          "description": "Kiểm tra hợp lệ với dòng và cột của lỗi, định dạng và kiểu dữ liệu của từng trường, ngay trên trình duyệt.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "rede",
+      "title": "Trang web, tên miền và mạng",
+      "items": [
+        {
+          "name": "Fast.com",
+          "url": "https://fast.com/pt/",
+          "link": "https://go.mymarketing.click/ferr-fast-com",
+          "description": "Đo tốc độ tải xuống, của Netflix.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Meu site está fora do ar?",
+          "url": "https://myinfrastructure.click/tools/is-it-down",
+          "link": "https://go.mymarketing.click/ferr-meu-site-esta-fora-do-ar",
+          "description": "Trạng thái, thời gian phản hồi, HTTPS và chuyển hướng của bất kỳ trang web nào, được kiểm tra từ bên ngoài mạng của bạn.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PageSpeed Insights",
+          "url": "https://pagespeed.web.dev/",
+          "link": "https://go.mymarketing.click/ferr-pagespeed-insights",
+          "description": "Đo tốc độ tải một trang trên điện thoại và máy tính, của Google.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página de status grátis",
+          "url": "https://myinfrastructure.click/tools/status-page",
+          "link": "https://go.mymarketing.click/ferr-pagina-de-status-gratis",
+          "description": "Tối đa năm địa chỉ được kiểm tra ngay bây giờ và được thiết kế như một trang trạng thái công khai.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Qual é o meu IP",
+          "url": "https://myinfrastructure.click/tools/my-ip",
+          "link": "https://go.mymarketing.click/ferr-qual-e-o-meu-ip",
+          "description": "Địa chỉ IP công cộng, vị trí gần đúng và nhà cung cấp của bạn, ngay lúc này.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Speedtest",
+          "url": "https://www.speedtest.net/pt",
+          "link": "https://go.mymarketing.click/ferr-speedtest",
+          "description": "Đo tốc độ kết nối của bạn.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SSL Labs",
+          "url": "https://www.ssllabs.com/ssltest/",
+          "link": "https://go.mymarketing.click/ferr-ssl-labs",
+          "description": "Kiểm tra chứng chỉ và cấu hình HTTPS của một trang web.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Verificar propagação de DNS",
+          "url": "https://myinfrastructure.click/tools/dns-propagation",
+          "link": "https://go.mymarketing.click/ferr-verificar-propagacao-de-dns",
+          "description": "Cloudflare và Google trả lời gì hôm nay cho tên miền của bạn, đặt cạnh nhau.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Whois de domínio",
+          "url": "https://myinfrastructure.click/tools/whois",
+          "link": "https://go.mymarketing.click/ferr-whois-de-dominio",
+          "description": "Tên miền đã đăng ký chưa, khi nào hết hạn, nhà đăng ký và DNS, lấy trực tiếp từ sổ đăng ký.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "email",
+      "title": "Email, quyền riêng tư và bảo mật",
+      "items": [
+        {
+          "name": "E-mail temporário",
+          "url": "https://ciromaciel.click/tools/receive-email",
+          "link": "https://go.mymarketing.click/ferr-e-mail-temporario",
+          "description": "Địa chỉ dùng ngay để nhận mã xác minh từ một trang web mà không để lộ email thật; thư tự xóa sau 8 ngày.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de senha forte",
+          "url": "https://ciromaciel.click/tools/generate-password",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-senha-forte",
+          "description": "Mật khẩu ngẫu nhiên từ 8 đến 64 ký tự, tạo trên trình duyệt và không được lưu lại.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com/",
+          "link": "https://go.mymarketing.click/ferr-have-i-been-pwned",
+          "description": "Cho biết email của bạn có xuất hiện trong các vụ rò rỉ đã biết hay không.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "mail-tester",
+          "url": "https://www.mail-tester.com/",
+          "link": "https://go.mymarketing.click/ferr-mail-tester",
+          "description": "Chấm điểm email của bạn trước khi bị đưa vào spam, có vài lượt kiểm tra miễn phí mỗi ngày.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Teste de assunto de e-mail",
+          "url": "https://mymarketing.click/tools/subject-line-tester",
+          "link": "https://go.mymarketing.click/ferr-teste-de-assunto-de-e-mail",
+          "description": "Tiêu đề hiển thị thế nào trên điện thoại, cắt ở đâu và điều gì làm nó bị rối.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Verificar SPF, DKIM e DMARC",
+          "url": "https://myinfrastructure.click/tools/email-dns-check",
+          "link": "https://go.mymarketing.click/ferr-verificar-spf-dkim-e-dmarc",
+          "description": "Các bản ghi quyết định email của bạn có vào hộp thư đến hay không, đọc từ DNS công khai và được giải thích.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "VirusTotal",
+          "url": "https://www.virustotal.com/",
+          "link": "https://go.mymarketing.click/ferr-virustotal",
+          "description": "Phân tích tệp và liên kết bằng hàng chục công cụ diệt virus.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "midia",
+      "title": "Video và âm thanh",
+      "items": [
+        {
+          "name": "Gravar a tela",
+          "url": "https://myoperations.click/tools/screen-recorder",
+          "link": "https://go.mymarketing.click/ferr-gravar-a-tela",
+          "description": "Quay toàn bộ màn hình, một cửa sổ hoặc một tab, kèm micro, rồi tải video về. Không cần cài đặt và không cần tài khoản.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tirar foto de um vídeo",
+          "url": "https://myoperations.click/tools/video-frame",
+          "link": "https://go.mymarketing.click/ferr-tirar-foto-de-um-video",
+          "description": "Dừng video đúng giây cần thiết và tải khung hình dưới dạng JPG hoặc PNG, dùng cho ảnh bìa, ảnh thu nhỏ hoặc bài đăng. Hiển thị thời lượng và độ phân giải.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Transcrever vídeo em texto",
+          "url": "https://myoperations.click/tools/transcribe-video",
+          "link": "https://go.mymarketing.click/ferr-transcrever-video-em-texto",
+          "description": "Lời thoại trong video thành văn bản, bằng tiếng Bồ Đào Nha, kèm phụ đề SRT sẵn sàng để tải về.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vocaroo",
+          "url": "https://vocaroo.com/",
+          "link": "https://go.mymarketing.click/ferr-vocaroo",
+          "description": "Ghi âm trên trình duyệt và tạo liên kết.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "negocio",
+      "title": "Bán hàng và mạng xã hội",
+      "items": [
+        {
+          "name": "Calculadora de preço de venda",
+          "url": "https://mymarketing.click/tools/price-calculator",
+          "link": "https://go.mymarketing.click/ferr-calculadora-de-preco-de-venda",
+          "description": "Giá bán theo biên lợi nhuận bạn muốn, đã tính phí và thuế.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Calculadora de taxa de cartão e Pix",
+          "url": "https://myinfrastructure.click/tools/card-fee-calculator",
+          "link": "https://go.mymarketing.click/ferr-calculadora-de-taxa-de-cartao-e-pix",
+          "description": "Số tiền thực nhận từ một đơn bán và giá để bù phí, với thẻ và Pix, theo phí của nhà cung cấp của bạn.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Calculadora do Cidadão",
+          "url": "https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores",
+          "link": "https://go.mymarketing.click/ferr-calculadora-do-cidadao",
+          "description": "Điều chỉnh giá trị theo lạm phát, dữ liệu của Ngân hàng Trung ương Brazil.",
+          "tags": [
+            "gratis",
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de link com UTM",
+          "url": "https://myoperations.click/tools/utm-builder",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-link-com-utm",
+          "description": "Tạo liên kết có utm_source, utm_medium và utm_campaign để biết bài đăng, email hay quảng cáo nào đưa khách truy cập đến.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de link de WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-link",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-link-de-whatsapp",
+          "description": "Liên kết wa.me với tin nhắn đã soạn sẵn và mã QR để in, ngay lúc này.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Limpar lista de contatos",
+          "url": "https://mycustomers.click/tools/contact-list-cleaner",
+          "link": "https://go.mymarketing.click/ferr-limpar-lista-de-contatos",
+          "description": "Số điện thoại có +55 và mã vùng DDD, thêm lại chữ số thứ chín và loại các số trùng lặp, gom trong một bảng tính.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nome, descrição e regras para grupo",
+          "url": "https://myoperations.click/tools/community-rules",
+          "link": "https://go.mymarketing.click/ferr-nome-descricao-e-regras-para-grupo",
+          "description": "Gợi ý tên theo loại nhóm, mô tả và nội quy sẵn sàng dán vào WhatsApp, Telegram hoặc Discord.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página de link na bio",
+          "url": "https://mymarketing.click/tools/link-in-bio",
+          "link": "https://go.mymarketing.click/ferr-pagina-de-link-na-bio",
+          "description": "Trang có các liên kết của bạn, xem được trên điện thoại và sẵn sàng để tải xuống.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "QR Code do WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+          "link": "https://go.mymarketing.click/ferr-qr-code-do-whatsapp",
+          "description": "Mã QR mở cuộc trò chuyện WhatsApp của bạn với sẵn tin nhắn, để in ra dạng PNG hoặc SVG.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "organizar",
+      "title": "Tổ chức và suy nghĩ",
+      "items": [
+        {
+          "name": "draw.io",
+          "url": "https://app.diagrams.net/",
+          "link": "https://go.mymarketing.click/ferr-draw-io",
+          "description": "Sơ đồ và lưu đồ, lưu ở nơi bạn chọn.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "link": "https://go.mymarketing.click/ferr-excalidraw",
+          "description": "Bảng trắng vẽ tay, mã nguồn mở.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Fusos horários",
+          "url": "https://ciromaciel.click/tools/compare-timezones",
+          "link": "https://go.mymarketing.click/ferr-fusos-horarios",
+          "description": "So sánh giờ của nhiều thành phố và tìm giờ họp phù hợp giữa các múi giờ.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Mapas mentais",
+          "url": "https://ciromaciel.click/tools/mindmaps",
+          "link": "https://go.mymarketing.click/ferr-mapas-mentais",
+          "description": "Sơ đồ tư duy trên trình duyệt, không cần đăng ký.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "tldraw",
+          "url": "https://www.tldraw.com/",
+          "link": "https://go.mymarketing.click/ferr-tldraw",
+          "description": "Bảng trắng vô hạn trên trình duyệt.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ia",
+      "title": "AI",
+      "items": [
+        {
+          "name": "Contador de tokens",
+          "url": "https://myagents.click/tools/token-counter",
+          "link": "https://go.mymarketing.click/ferr-contador-de-tokens",
+          "description": "Dán một đoạn văn để xem các token và chúng chiếm bao nhiêu cửa sổ ngữ cảnh, ngay trên trình duyệt.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de prompt de agente",
+          "url": "https://myagents.click/tools/agent-prompt-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-prompt-de-agente",
+          "description": "Năm câu trả lời thành hướng dẫn cho một agent, sẵn sàng dán vào.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página em Markdown",
+          "url": "https://ciromaciel.click/tools/web-to-markdown",
+          "link": "https://go.mymarketing.click/ferr-pagina-em-markdown",
+          "description": "Chuyển trang web thành Markdown gọn gàng, không có menu hay quảng cáo, sẵn sàng dán vào AI.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Testar um servidor MCP",
+          "url": "https://myagents.click/tools/mcp-server-test",
+          "link": "https://go.mymarketing.click/ferr-testar-um-servidor-mcp",
+          "description": "Dán địa chỉ và xem nó có phản hồi không, dùng những công cụ nào và có yêu cầu đăng nhập không.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Treine um GPT",
+          "url": "https://ciromaciel.click/tools/train-gpt",
+          "link": "https://go.mymarketing.click/ferr-treine-um-gpt",
+          "description": "Huấn luyện một mô hình ngôn ngữ nhỏ từ đầu trên trình duyệt và hiển thị các token, cơ chế chú ý và nơ-ron.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "arquivos",
+      "title": "Gửi tệp",
+      "items": [
+        {
+          "name": "PairDrop",
+          "url": "https://pairdrop.net/",
+          "link": "https://go.mymarketing.click/ferr-pairdrop",
+          "description": "Chuyển tệp giữa các thiết bị trong cùng mạng, mã nguồn mở.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Transfer.it",
+          "url": "https://transfer.it/",
+          "link": "https://go.mymarketing.click/ferr-transfer-it",
+          "description": "Gửi tệp lớn qua liên kết, từ MEGA.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Wormhole",
+          "url": "https://wormhole.app/",
+          "link": "https://go.mymarketing.click/ferr-wormhole",
+          "description": "Gửi tệp lớn có mã hóa đầu cuối và liên kết hết hạn.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

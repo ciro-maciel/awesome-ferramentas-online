@@ -1,0 +1,918 @@
+{
+  "slug": "awesome-ferramentas-online",
+  "language": "it",
+  "title": "Awesome ferramentas online",
+  "description": "Strumenti gratuiti che si aprono nel browser, senza installare nulla: immagini, PDF, testo, codice, siti, e-mail, video e vendite.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "imagem",
+      "title": "Immagini e design",
+      "items": [
+        {
+          "name": "Coolors",
+          "url": "https://coolors.co/",
+          "link": "https://go.mymarketing.click/ferr-coolors",
+          "description": "Genera palette di colori con la barra spaziatrice.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados em gráfico",
+          "url": "https://ciromaciel.click/tools/data-to-chart",
+          "link": "https://go.mymarketing.click/ferr-dados-em-grafico",
+          "description": "Grafici in PNG o SVG da una tabella, e caroselli con PDF e immagini.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Foto no tamanho do Instagram",
+          "url": "https://mymarketing.click/tools/instagram-image-resizer",
+          "link": "https://go.mymarketing.click/ferr-foto-no-tamanho-do-instagram",
+          "description": "La tua foto nel formato di post, storia e stato, senza tagli sbagliati.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de favicon",
+          "url": "https://ciromaciel.click/tools/generate-favicon",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-favicon",
+          "description": "Favicon da lettere o immagine, in SVG con modalità scura, ICO, PNG e webmanifest.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de fundos",
+          "url": "https://ciromaciel.click/tools/generate-background",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-fundos",
+          "description": "Sfondi e carte da parati nelle dimensioni esatte di banner, storie, computer e cellulare.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de QR Code",
+          "url": "https://mymarketing.click/tools/qr-code-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-qr-code",
+          "description": "Il QR Code del tuo link, della rete Wi-Fi o del tuo Pix, in SVG e PNG.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com/",
+          "link": "https://go.mymarketing.click/ferr-photopea",
+          "description": "Editor di immagini nel browser che apre PSD, XCF e Sketch.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Redimensionar imagem",
+          "url": "https://mymarketing.click/tools/image-resizer",
+          "link": "https://go.mymarketing.click/ferr-redimensionar-imagem",
+          "description": "Qualsiasi immagine nella dimensione che ti serve, in pixel o percentuale, in JPG, PNG o WebP.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "remove.bg",
+          "url": "https://www.remove.bg/pt-br",
+          "link": "https://go.mymarketing.click/ferr-remove-bg",
+          "description": "Rimuove lo sfondo delle foto; l'anteprima a bassa risoluzione è gratuita.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Remover fundo de imagem",
+          "url": "https://ciromaciel.click/tools/remove-background",
+          "link": "https://go.mymarketing.click/ferr-remover-fundo-de-imagem",
+          "description": "L'IA gira nel browser, la foto non viene inviata e il PNG esce nella risoluzione dell'originale.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app/",
+          "link": "https://go.mymarketing.click/ferr-squoosh",
+          "description": "Comprime e converte immagini nel browser, da Google Chrome Labs.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SVGOMG",
+          "url": "https://svgomg.net/",
+          "link": "https://go.mymarketing.click/ferr-svgomg",
+          "description": "Riduce le dimensioni dei file SVG, con anteprima.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "documentos",
+      "title": "PDF e documenti",
+      "items": [
+        {
+          "name": "CloudConvert",
+          "url": "https://cloudconvert.com/",
+          "link": "https://go.mymarketing.click/ferr-cloudconvert",
+          "description": "Converte tra oltre 200 formati, con quota giornaliera gratuita.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "iLovePDF",
+          "url": "https://www.ilovepdf.com/pt",
+          "link": "https://go.mymarketing.click/ferr-ilovepdf",
+          "description": "Strumenti PDF in portoghese, con limite nel piano gratuito.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PDF24 Tools",
+          "url": "https://tools.pdf24.org/pt/",
+          "link": "https://go.mymarketing.click/ferr-pdf24-tools",
+          "description": "Unire, dividere, comprimere, convertire e firmare PDF, senza registrazione.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Smallpdf",
+          "url": "https://smallpdf.com/pt",
+          "link": "https://go.mymarketing.click/ferr-smallpdf",
+          "description": "Strumenti PDF con alcune operazioni gratuite al giorno.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "texto",
+      "title": "Testo e lingua",
+      "items": [
+        {
+          "name": "Contador de caracteres e palavras",
+          "url": "https://mymarketing.click/tools/word-counter",
+          "link": "https://go.mymarketing.click/ferr-contador-de-caracteres-e-palavras",
+          "description": "Caratteri con e senza spazi, parole, tempo di lettura e le frasi più lunghe del tuo testo.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "DeepL Tradutor",
+          "url": "https://www.deepl.com/pt-BR/translator",
+          "link": "https://go.mymarketing.click/ferr-deepl-tradutor",
+          "description": "Traduttore con limite di testo nel piano gratuito.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dicio",
+          "url": "https://www.dicio.com.br/",
+          "link": "https://go.mymarketing.click/ferr-dicio",
+          "description": "Dizionario online di portoghese.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LanguageTool",
+          "url": "https://www.languagetool.org/pt-BR",
+          "link": "https://go.mymarketing.click/ferr-languagetool",
+          "description": "Correttore di grammatica e stile in portoghese.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Texto em slides",
+          "url": "https://mymarketing.click/tools/text-to-slides",
+          "link": "https://go.mymarketing.click/ferr-texto-em-slides",
+          "description": "Le slide del tuo testo, da presentare a schermo intero o salvare in PDF.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dev",
+      "title": "Sviluppo",
+      "items": [
+        {
+          "name": "Carbon",
+          "url": "https://carbon.now.sh/",
+          "link": "https://go.mymarketing.click/ferr-carbon",
+          "description": "Trasforma un frammento di codice in un'immagine da condividere.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Codificar e decodificar Base64",
+          "url": "https://myinfrastructure.click/tools/base64",
+          "link": "https://go.mymarketing.click/ferr-codificar-e-decodificar-base64",
+          "description": "Testo in Base64 e viceversa, con Base64url e accenti, nel tuo browser.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "crontab.guru",
+          "url": "https://crontab.guru/",
+          "link": "https://go.mymarketing.click/ferr-crontab-guru",
+          "description": "Spiega un'espressione cron in inglese.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CyberChef",
+          "url": "https://gchq.github.io/CyberChef/",
+          "link": "https://go.mymarketing.click/ferr-cyberchef",
+          "description": "Codifica, decodifica, converte e analizza dati, di GCHQ britannico.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decodificar JWT",
+          "url": "https://myinfrastructure.click/tools/jwt-decoder",
+          "link": "https://go.mymarketing.click/ferr-decodificar-jwt",
+          "description": "Intestazione, payload e scadenza di un token, letti nel tuo browser. Il token non lascia la pagina.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Explorador de S3",
+          "url": "https://ciromaciel.click/tools/explore-s3",
+          "link": "https://go.mymarketing.click/ferr-explorador-de-s3",
+          "description": "Esplora le cartelle di un bucket S3 e scarica file con le tue chiavi, senza server di mezzo.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Formulário de contato em HTML",
+          "url": "https://mymarketing.click/tools/contact-form-generator",
+          "link": "https://go.mymarketing.click/ferr-formulario-de-contato-em-html",
+          "description": "I campi che scegli, il codice HTML e CSS da incollare nel sito.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador e validador de CPF e CNPJ",
+          "url": "https://myagents.click/tools/cpf-cnpj-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-e-validador-de-cpf-e-cnpj",
+          "description": "Genera CPF e CNPJ validi per test, anche il CNPJ con lettere, oppure verifica le cifre di un numero.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "JSON Crack",
+          "url": "https://jsoncrack.com/editor",
+          "link": "https://go.mymarketing.click/ferr-json-crack",
+          "description": "Mostra un JSON come grafo.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "jwt.io",
+          "url": "https://jwt.io/",
+          "link": "https://go.mymarketing.click/ferr-jwt-io",
+          "description": "Decodifica e verifica i token JWT.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "regex101",
+          "url": "https://regex101.com/",
+          "link": "https://go.mymarketing.click/ferr-regex101",
+          "description": "Testa le espressioni regolari e spiega ogni parte.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Testar expressão cron",
+          "url": "https://myinfrastructure.click/tools/cron-tester",
+          "link": "https://go.mymarketing.click/ferr-testar-expressao-cron",
+          "description": "Spiega cosa significa un'espressione cron e mostra le prossime esecuzioni, in UTC e nell'orario di Brasília.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Validar e formatar JSON",
+          "url": "https://myinfrastructure.click/tools/json-validator",
+          "link": "https://go.mymarketing.click/ferr-validar-e-formatar-json",
+          "description": "Validazione con riga e colonna dell'errore, formattazione e i campi con il tipo di ognuno, nel browser.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "rede",
+      "title": "Siti, domini e rete",
+      "items": [
+        {
+          "name": "Fast.com",
+          "url": "https://fast.com/pt/",
+          "link": "https://go.mymarketing.click/ferr-fast-com",
+          "description": "Misura la velocità di download, di Netflix.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Meu site está fora do ar?",
+          "url": "https://myinfrastructure.click/tools/is-it-down",
+          "link": "https://go.mymarketing.click/ferr-meu-site-esta-fora-do-ar",
+          "description": "Stato, tempo di risposta, HTTPS e reindirizzamenti di qualsiasi sito, verificati dall'esterno della tua rete.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PageSpeed Insights",
+          "url": "https://pagespeed.web.dev/",
+          "link": "https://go.mymarketing.click/ferr-pagespeed-insights",
+          "description": "Misura la velocità di una pagina su cellulare e computer, di Google.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página de status grátis",
+          "url": "https://myinfrastructure.click/tools/status-page",
+          "link": "https://go.mymarketing.click/ferr-pagina-de-status-gratis",
+          "description": "Fino a cinque indirizzi verificati in tempo reale e disegnati come una pagina di stato pubblica.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Qual é o meu IP",
+          "url": "https://myinfrastructure.click/tools/my-ip",
+          "link": "https://go.mymarketing.click/ferr-qual-e-o-meu-ip",
+          "description": "Il tuo IP pubblico, la posizione approssimativa e il provider, al momento.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Speedtest",
+          "url": "https://www.speedtest.net/pt",
+          "link": "https://go.mymarketing.click/ferr-speedtest",
+          "description": "Misura la velocità della tua connessione.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SSL Labs",
+          "url": "https://www.ssllabs.com/ssltest/",
+          "link": "https://go.mymarketing.click/ferr-ssl-labs",
+          "description": "Testa il certificato e la configurazione HTTPS di un sito.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Verificar propagação de DNS",
+          "url": "https://myinfrastructure.click/tools/dns-propagation",
+          "link": "https://go.mymarketing.click/ferr-verificar-propagacao-de-dns",
+          "description": "Cosa rispondono oggi Cloudflare e Google per il tuo dominio, uno accanto all'altro.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Whois de domínio",
+          "url": "https://myinfrastructure.click/tools/whois",
+          "link": "https://go.mymarketing.click/ferr-whois-de-dominio",
+          "description": "Se il dominio è registrato, quando scade, il registrar e il DNS, direttamente dal registro.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "email",
+      "title": "Email, privacy e sicurezza",
+      "items": [
+        {
+          "name": "E-mail temporário",
+          "url": "https://ciromaciel.click/tools/receive-email",
+          "link": "https://go.mymarketing.click/ferr-e-mail-temporario",
+          "description": "Un indirizzo istantaneo per ricevere il codice di un sito senza dare il tuo; le email scompaiono dopo 8 giorni.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de senha forte",
+          "url": "https://ciromaciel.click/tools/generate-password",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-senha-forte",
+          "description": "Password casuale da 8 a 64 caratteri, generata nel browser e non salvata.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com/",
+          "link": "https://go.mymarketing.click/ferr-have-i-been-pwned",
+          "description": "Mostra se la tua email è comparsa in fughe di dati note.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "mail-tester",
+          "url": "https://www.mail-tester.com/",
+          "link": "https://go.mymarketing.click/ferr-mail-tester",
+          "description": "Assegna un punteggio alla tua email prima che finisca nello spam, con alcuni controlli gratuiti al giorno.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Teste de assunto de e-mail",
+          "url": "https://mymarketing.click/tools/subject-line-tester",
+          "link": "https://go.mymarketing.click/ferr-teste-de-assunto-de-e-mail",
+          "description": "Come appare l'oggetto sul cellulare, dove viene tagliato e cosa dà problemi.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Verificar SPF, DKIM e DMARC",
+          "url": "https://myinfrastructure.click/tools/email-dns-check",
+          "link": "https://go.mymarketing.click/ferr-verificar-spf-dkim-e-dmarc",
+          "description": "I record che decidono se la tua email arriva nella posta in arrivo, letti dal DNS pubblico e spiegati.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "VirusTotal",
+          "url": "https://www.virustotal.com/",
+          "link": "https://go.mymarketing.click/ferr-virustotal",
+          "description": "Analizza file e link con decine di antivirus.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "midia",
+      "title": "Video e audio",
+      "items": [
+        {
+          "name": "Gravar a tela",
+          "url": "https://myoperations.click/tools/screen-recorder",
+          "link": "https://go.mymarketing.click/ferr-gravar-a-tela",
+          "description": "Registra tutto lo schermo, una finestra o una scheda, con il microfono, e scarica il video. Senza installare nulla e senza account.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tirar foto de um vídeo",
+          "url": "https://myoperations.click/tools/video-frame",
+          "link": "https://go.mymarketing.click/ferr-tirar-foto-de-um-video",
+          "description": "Ferma il video al secondo giusto e scarica il fotogramma in JPG o PNG, per copertina, miniatura o post. Mostra durata e risoluzione.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Transcrever vídeo em texto",
+          "url": "https://myoperations.click/tools/transcribe-video",
+          "link": "https://go.mymarketing.click/ferr-transcrever-video-em-texto",
+          "description": "Il parlato del video in testo, in portoghese, con i sottotitoli SRT pronti da scaricare.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vocaroo",
+          "url": "https://vocaroo.com/",
+          "link": "https://go.mymarketing.click/ferr-vocaroo",
+          "description": "Registra audio nel browser e genera un link.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "negocio",
+      "title": "Vendite e social",
+      "items": [
+        {
+          "name": "Calculadora de preço de venda",
+          "url": "https://mymarketing.click/tools/price-calculator",
+          "link": "https://go.mymarketing.click/ferr-calculadora-de-preco-de-venda",
+          "description": "Il prezzo di vendita con il margine che vuoi, con commissioni e tasse.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Calculadora de taxa de cartão e Pix",
+          "url": "https://myinfrastructure.click/tools/card-fee-calculator",
+          "link": "https://go.mymarketing.click/ferr-calculadora-de-taxa-de-cartao-e-pix",
+          "description": "Valore netto di una vendita e il prezzo che copre la commissione, con carta e Pix, con la commissione del tuo provider.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Calculadora do Cidadão",
+          "url": "https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores",
+          "link": "https://go.mymarketing.click/ferr-calculadora-do-cidadao",
+          "description": "Corregge i valori in base all'inflazione, dati della Banca Centrale.",
+          "tags": [
+            "gratis",
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de link com UTM",
+          "url": "https://myoperations.click/tools/utm-builder",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-link-com-utm",
+          "description": "Crea il link con utm_source, utm_medium e utm_campaign per sapere quale post, email o annuncio ha portato la visita.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de link de WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-link",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-link-de-whatsapp",
+          "description": "Il link wa.me con il messaggio già scritto e il QR code da stampare, al momento.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Limpar lista de contatos",
+          "url": "https://mycustomers.click/tools/contact-list-cleaner",
+          "link": "https://go.mymarketing.click/ferr-limpar-lista-de-contatos",
+          "description": "Numeri di telefono con +55 e DDD, il nono cifra ripristinato e i duplicati esclusi, in un unico foglio di calcolo.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nome, descrição e regras para grupo",
+          "url": "https://myoperations.click/tools/community-rules",
+          "link": "https://go.mymarketing.click/ferr-nome-descricao-e-regras-para-grupo",
+          "description": "Idee di nome per tipo di gruppo, la descrizione e le regole pronte da incollare su WhatsApp, Telegram o Discord.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página de link na bio",
+          "url": "https://mymarketing.click/tools/link-in-bio",
+          "link": "https://go.mymarketing.click/ferr-pagina-de-link-na-bio",
+          "description": "La pagina con i tuoi link, visualizzata sul cellulare e pronta da scaricare.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "QR Code do WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+          "link": "https://go.mymarketing.click/ferr-qr-code-do-whatsapp",
+          "description": "Il QR Code che apre la tua chat su WhatsApp, con il messaggio già pronto, da stampare in PNG o SVG.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "organizar",
+      "title": "Organizzare e riflettere",
+      "items": [
+        {
+          "name": "draw.io",
+          "url": "https://app.diagrams.net/",
+          "link": "https://go.mymarketing.click/ferr-draw-io",
+          "description": "Diagrammi e flussogrammi, salvati dove preferisci.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "link": "https://go.mymarketing.click/ferr-excalidraw",
+          "description": "Lavagna bianca con tratto a mano libera, open source.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Fusos horários",
+          "url": "https://ciromaciel.click/tools/compare-timezones",
+          "link": "https://go.mymarketing.click/ferr-fusos-horarios",
+          "description": "Confronta l'ora di più città e trova l'orario di una riunione tra fusi orari.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Mapas mentais",
+          "url": "https://ciromaciel.click/tools/mindmaps",
+          "link": "https://go.mymarketing.click/ferr-mapas-mentais",
+          "description": "Mappe mentali nel browser, senza registrazione.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "tldraw",
+          "url": "https://www.tldraw.com/",
+          "link": "https://go.mymarketing.click/ferr-tldraw",
+          "description": "Lavagna bianca infinita nel browser.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ia",
+      "title": "IA",
+      "items": [
+        {
+          "name": "Contador de tokens",
+          "url": "https://myagents.click/tools/token-counter",
+          "link": "https://go.mymarketing.click/ferr-contador-de-tokens",
+          "description": "Incolla un testo e guarda i token e quanto occupano della finestra di contesto, nel browser.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de prompt de agente",
+          "url": "https://myagents.click/tools/agent-prompt-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-prompt-de-agente",
+          "description": "Cinque risposte diventano le istruzioni di un agente, pronte da incollare.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página em Markdown",
+          "url": "https://ciromaciel.click/tools/web-to-markdown",
+          "link": "https://go.mymarketing.click/ferr-pagina-em-markdown",
+          "description": "Trasforma una pagina web in Markdown pulito, senza menu né pubblicità, pronto da incollare in un'IA.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Testar um servidor MCP",
+          "url": "https://myagents.click/tools/mcp-server-test",
+          "link": "https://go.mymarketing.click/ferr-testar-um-servidor-mcp",
+          "description": "Incolla l'indirizzo e verifica se risponde, con quali strumenti e se richiede il login.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Treine um GPT",
+          "url": "https://ciromaciel.click/tools/train-gpt",
+          "link": "https://go.mymarketing.click/ferr-treine-um-gpt",
+          "description": "Addestra un piccolo modello linguistico da zero nel browser e mostra i token, l'attenzione e i neuroni.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "arquivos",
+      "title": "Invio di file",
+      "items": [
+        {
+          "name": "PairDrop",
+          "url": "https://pairdrop.net/",
+          "link": "https://go.mymarketing.click/ferr-pairdrop",
+          "description": "Trasferisce file tra dispositivi della stessa rete, open source.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Transfer.it",
+          "url": "https://transfer.it/",
+          "link": "https://go.mymarketing.click/ferr-transfer-it",
+          "description": "Invia file grandi tramite link, di MEGA.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Wormhole",
+          "url": "https://wormhole.app/",
+          "link": "https://go.mymarketing.click/ferr-wormhole",
+          "description": "Invia file grandi con crittografia end-to-end e link che scade.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "slug": "awesome-ferramentas-online",
+  "language": "hi",
+  "title": "Awesome ferramentas online",
+  "description": "ब्राउज़र में खुलने वाले मुफ़्त टूल, बिना इंस्टॉल किए: इमेज, PDF, टेक्स्ट, कोड, वेबसाइट, ईमेल, वीडियो और सेल्स।",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "imagem",
+      "title": "इमेज और डिज़ाइन",
+      "items": [
+        {
+          "name": "Coolors",
+          "url": "https://coolors.co/",
+          "link": "https://go.mymarketing.click/ferr-coolors",
+          "description": "स्पेसबार दबाकर रंगों के पैलेट बनाता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados em gráfico",
+          "url": "https://ciromaciel.click/tools/data-to-chart",
+          "link": "https://go.mymarketing.click/ferr-dados-em-grafico",
+          "description": "टेबल से PNG या SVG में ग्राफ़, और PDF व इमेज के साथ कैरोसेल।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Foto no tamanho do Instagram",
+          "url": "https://mymarketing.click/tools/instagram-image-resizer",
+          "link": "https://go.mymarketing.click/ferr-foto-no-tamanho-do-instagram",
+          "description": "आपकी फोटो पोस्ट, स्टोरी और स्टेटस के सही साइज़ में, बिना गलत कट के।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de favicon",
+          "url": "https://ciromaciel.click/tools/generate-favicon",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-favicon",
+          "description": "अक्षरों या इमेज से Favicon, SVG में डार्क मोड के साथ, साथ में ICO, PNG और webmanifest।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de fundos",
+          "url": "https://ciromaciel.click/tools/generate-background",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-fundos",
+          "description": "बैनर, स्टोरी, कंप्यूटर और मोबाइल के सटीक साइज़ में बैकग्राउंड और वॉलपेपर।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de QR Code",
+          "url": "https://mymarketing.click/tools/qr-code-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-qr-code",
+          "description": "आपके लिंक, Wi-Fi नेटवर्क या Pix का QR Code, SVG और PNG में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com/",
+          "link": "https://go.mymarketing.click/ferr-photopea",
+          "description": "ब्राउज़र में इमेज एडिटर जो PSD, XCF और Sketch खोलता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Redimensionar imagem",
+          "url": "https://mymarketing.click/tools/image-resizer",
+          "link": "https://go.mymarketing.click/ferr-redimensionar-imagem",
+          "description": "पिक्सल या प्रतिशत में आपको चाहिए वह कोई भी साइज़, JPG, PNG या WebP में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "remove.bg",
+          "url": "https://www.remove.bg/pt-br",
+          "link": "https://go.mymarketing.click/ferr-remove-bg",
+          "description": "फोटो का बैकग्राउंड हटाता है; कम रिज़ॉल्यूशन का प्रीव्यू मुफ़्त है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Remover fundo de imagem",
+          "url": "https://ciromaciel.click/tools/remove-background",
+          "link": "https://go.mymarketing.click/ferr-remover-fundo-de-imagem",
+          "description": "AI ब्राउज़र में चलता है, फोटो अपलोड नहीं होती और PNG मूल रिज़ॉल्यूशन में निकलता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app/",
+          "link": "https://go.mymarketing.click/ferr-squoosh",
+          "description": "ब्राउज़र में इमेज कंप्रेस और कन्वर्ट करता है, Google Chrome Labs से।",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SVGOMG",
+          "url": "https://svgomg.net/",
+          "link": "https://go.mymarketing.click/ferr-svgomg",
+          "description": "प्रीव्यू के साथ SVG फ़ाइलों का साइज़ घटाता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "documentos",
+      "title": "PDF और दस्तावेज़",
+      "items": [
+        {
+          "name": "CloudConvert",
+          "url": "https://cloudconvert.com/",
+          "link": "https://go.mymarketing.click/ferr-cloudconvert",
+          "description": "200 से ज़्यादा फ़ॉर्मेट में बदलता है, रोज़ का मुफ़्त कोटा के साथ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "iLovePDF",
+          "url": "https://www.ilovepdf.com/pt",
+          "link": "https://go.mymarketing.click/ferr-ilovepdf",
+          "description": "पुर्तगाली में PDF टूल, मुफ़्त प्लान में सीमा के साथ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PDF24 Tools",
+          "url": "https://tools.pdf24.org/pt/",
+          "link": "https://go.mymarketing.click/ferr-pdf24-tools",
+          "description": "PDF के काम जोड़ें, बाँटें, कंप्रेस करें, बदलें और साइन करें, बिना रजिस्ट्रेशन के।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Smallpdf",
+          "url": "https://smallpdf.com/pt",
+          "link": "https://go.mymarketing.click/ferr-smallpdf",
+          "description": "कुछ PDF टूल रोज़ कुछ काम मुफ़्त में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "texto",
+      "title": "टेक्स्ट और भाषा",
+      "items": [
+        {
+          "name": "Contador de caracteres e palavras",
+          "url": "https://mymarketing.click/tools/word-counter",
+          "link": "https://go.mymarketing.click/ferr-contador-de-caracteres-e-palavras",
+          "description": "स्पेस के साथ और बिना अक्षर, शब्द, पढ़ने का समय और आपके टेक्स्ट के लंबे वाक्य।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "DeepL Tradutor",
+          "url": "https://www.deepl.com/pt-BR/translator",
+          "link": "https://go.mymarketing.click/ferr-deepl-tradutor",
+          "description": "मुफ़्त प्लान में टेक्स्ट सीमा वाला अनुवादक।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dicio",
+          "url": "https://www.dicio.com.br/",
+          "link": "https://go.mymarketing.click/ferr-dicio",
+          "description": "पुर्तगाली का ऑनलाइन शब्दकोश।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "LanguageTool",
+          "url": "https://www.languagetool.org/pt-BR",
+          "link": "https://go.mymarketing.click/ferr-languagetool",
+          "description": "पुर्तगाली में व्याकरण और शैली का सुधारक।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Texto em slides",
+          "url": "https://mymarketing.click/tools/text-to-slides",
+          "link": "https://go.mymarketing.click/ferr-texto-em-slides",
+          "description": "आपके टेक्स्ट की स्लाइड, फ़ुल स्क्रीन पर दिखाने या PDF में सेव करने के लिए।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dev",
+      "title": "डेवलपमेंट",
+      "items": [
+        {
+          "name": "Carbon",
+          "url": "https://carbon.now.sh/",
+          "link": "https://go.mymarketing.click/ferr-carbon",
+          "description": "कोड के एक हिस्से को शेयर करने लायक इमेज में बदलता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Codificar e decodificar Base64",
+          "url": "https://myinfrastructure.click/tools/base64",
+          "link": "https://go.mymarketing.click/ferr-codificar-e-decodificar-base64",
+          "description": "टेक्स्ट से Base64 और वापस, Base64url और अक्षरों के साथ, आपके ब्राउज़र में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "crontab.guru",
+          "url": "https://crontab.guru/",
+          "link": "https://go.mymarketing.click/ferr-crontab-guru",
+          "description": "अंग्रेज़ी में cron एक्सप्रेशन समझाता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CyberChef",
+          "url": "https://gchq.github.io/CyberChef/",
+          "link": "https://go.mymarketing.click/ferr-cyberchef",
+          "description": "ब्रिटिश GCHQ से डेटा एन्कोड, डिकोड, कन्वर्ट और एनालाइज़ करें।",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Decodificar JWT",
+          "url": "https://myinfrastructure.click/tools/jwt-decoder",
+          "link": "https://go.mymarketing.click/ferr-decodificar-jwt",
+          "description": "टोकन का हेडर, payload और वैधता, आपके ब्राउज़र में पढ़ी जाती है। टोकन पेज से बाहर नहीं जाता।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Explorador de S3",
+          "url": "https://ciromaciel.click/tools/explore-s3",
+          "link": "https://go.mymarketing.click/ferr-explorador-de-s3",
+          "description": "S3 bucket के फ़ोल्डर देखता है और आपकी keys से फ़ाइलें डाउनलोड करता है, बीच में कोई सर्वर नहीं।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Formulário de contato em HTML",
+          "url": "https://mymarketing.click/tools/contact-form-generator",
+          "link": "https://go.mymarketing.click/ferr-formulario-de-contato-em-html",
+          "description": "आपके चुने हुए फ़ील्ड और वेबसाइट में चिपकाने के लिए HTML और CSS कोड।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador e validador de CPF e CNPJ",
+          "url": "https://myagents.click/tools/cpf-cnpj-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-e-validador-de-cpf-e-cnpj",
+          "description": "टेस्ट के लिए मान्य CPF और CNPJ बनाएँ, अक्षरों वाला CNPJ भी, या किसी नंबर के अंक जाँचें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "JSON Crack",
+          "url": "https://jsoncrack.com/editor",
+          "link": "https://go.mymarketing.click/ferr-json-crack",
+          "description": "JSON को ग्राफ़ के रूप में दिखाएँ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "jwt.io",
+          "url": "https://jwt.io/",
+          "link": "https://go.mymarketing.click/ferr-jwt-io",
+          "description": "JWT टोकन को डिकोड करें और जाँचें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "regex101",
+          "url": "https://regex101.com/",
+          "link": "https://go.mymarketing.click/ferr-regex101",
+          "description": "Regular expressions को परखें और हर हिस्से की व्याख्या करें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Testar expressão cron",
+          "url": "https://myinfrastructure.click/tools/cron-tester",
+          "link": "https://go.mymarketing.click/ferr-testar-expressao-cron",
+          "description": "cron expression का मतलब क्या है और अगले run कब होंगे, UTC में और Brasília के समय में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Validar e formatar JSON",
+          "url": "https://myinfrastructure.click/tools/json-validator",
+          "link": "https://go.mymarketing.click/ferr-validar-e-formatar-json",
+          "description": "लाइन और कॉलम के साथ error की validation, formatting और हर field का type, ब्राउज़र में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "rede",
+      "title": "Sites, domains और network",
+      "items": [
+        {
+          "name": "Fast.com",
+          "url": "https://fast.com/pt/",
+          "link": "https://go.mymarketing.click/ferr-fast-com",
+          "description": "Netflix की download speed मापें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Meu site está fora do ar?",
+          "url": "https://myinfrastructure.click/tools/is-it-down",
+          "link": "https://go.mymarketing.click/ferr-meu-site-esta-fora-do-ar",
+          "description": "किसी भी site की status, response time, HTTPS और redirects, आपके network के बाहर से जाँचे गए।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PageSpeed Insights",
+          "url": "https://pagespeed.web.dev/",
+          "link": "https://go.mymarketing.click/ferr-pagespeed-insights",
+          "description": "Google का टूल, जो फ़ोन और कंप्यूटर पर किसी page की speed मापता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página de status grátis",
+          "url": "https://myinfrastructure.click/tools/status-page",
+          "link": "https://go.mymarketing.click/ferr-pagina-de-status-gratis",
+          "description": "अभी तक पाँच तक addresses की जाँच करें और उन्हें सार्वजनिक status page की तरह दिखाएँ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Qual é o meu IP",
+          "url": "https://myinfrastructure.click/tools/my-ip",
+          "link": "https://go.mymarketing.click/ferr-qual-e-o-meu-ip",
+          "description": "आपका public IP, अनुमानित location और provider, तुरंत।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Speedtest",
+          "url": "https://www.speedtest.net/pt",
+          "link": "https://go.mymarketing.click/ferr-speedtest",
+          "description": "अपने connection की speed मापें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SSL Labs",
+          "url": "https://www.ssllabs.com/ssltest/",
+          "link": "https://go.mymarketing.click/ferr-ssl-labs",
+          "description": "किसी site के certificate और HTTPS setup की जाँच करें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Verificar propagação de DNS",
+          "url": "https://myinfrastructure.click/tools/dns-propagation",
+          "link": "https://go.mymarketing.click/ferr-verificar-propagacao-de-dns",
+          "description": "Cloudflare और Google आज आपके domain के लिए क्या जवाब देते हैं, साथ-साथ देखें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Whois de domínio",
+          "url": "https://myinfrastructure.click/tools/whois",
+          "link": "https://go.mymarketing.click/ferr-whois-de-dominio",
+          "description": "जाँचें कि domain registered है या नहीं, कब expire होगा, registrar कौन है और DNS क्या है, सीधे registry से।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "email",
+      "title": "Email, privacy और security",
+      "items": [
+        {
+          "name": "E-mail temporário",
+          "url": "https://ciromaciel.click/tools/receive-email",
+          "link": "https://go.mymarketing.click/ferr-e-mail-temporario",
+          "description": "किसी site का code पाने के लिए तुरंत एक address लें, बिना अपना असली address दिए; emails 8 दिनों में गायब हो जाते हैं।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de senha forte",
+          "url": "https://ciromaciel.click/tools/generate-password",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-senha-forte",
+          "description": "8 से 64 characters का random password, ब्राउज़र में बना और कहीं save नहीं होता।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com/",
+          "link": "https://go.mymarketing.click/ferr-have-i-been-pwned",
+          "description": "जाँचें कि आपका email किसी ज्ञात leak में आया है या नहीं।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "mail-tester",
+          "url": "https://www.mail-tester.com/",
+          "link": "https://go.mymarketing.click/ferr-mail-tester",
+          "description": "spam में जाने से पहले आपके email को स्कोर दें, हर दिन कुछ जाँच मुफ़्त।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Teste de assunto de e-mail",
+          "url": "https://mymarketing.click/tools/subject-line-tester",
+          "link": "https://go.mymarketing.click/ferr-teste-de-assunto-de-e-mail",
+          "description": "देखें कि फ़ोन पर subject कैसा दिखता है, वह कहाँ कटता है और क्या रुकावट बनता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Verificar SPF, DKIM e DMARC",
+          "url": "https://myinfrastructure.click/tools/email-dns-check",
+          "link": "https://go.mymarketing.click/ferr-verificar-spf-dkim-e-dmarc",
+          "description": "वे records जो तय करते हैं कि आपका email inbox तक पहुँचेगा या नहीं, सार्वजनिक DNS से पढ़े गए और समझाए गए।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "VirusTotal",
+          "url": "https://www.virustotal.com/",
+          "link": "https://go.mymarketing.click/ferr-virustotal",
+          "description": "दर्जनों antivirus से files और links का विश्लेषण करें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "midia",
+      "title": "Video और audio",
+      "items": [
+        {
+          "name": "Gravar a tela",
+          "url": "https://myoperations.click/tools/screen-recorder",
+          "link": "https://go.mymarketing.click/ferr-gravar-a-tela",
+          "description": "पूरी screen, एक window या एक tab को microphone के साथ record करें और video download करें। बिना कुछ install किए और बिना account के।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tirar foto de um vídeo",
+          "url": "https://myoperations.click/tools/video-frame",
+          "link": "https://go.mymarketing.click/ferr-tirar-foto-de-um-video",
+          "description": "सही सेकंड पर video रोकें और frame को JPG या PNG में download करें, cover, thumbnail या post के लिए। अवधि और resolution भी दिखाता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Transcrever vídeo em texto",
+          "url": "https://myoperations.click/tools/transcribe-video",
+          "link": "https://go.mymarketing.click/ferr-transcrever-video-em-texto",
+          "description": "video की speech पुर्तगाली text में, download के लिए तैयार SRT caption के साथ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Vocaroo",
+          "url": "https://vocaroo.com/",
+          "link": "https://go.mymarketing.click/ferr-vocaroo",
+          "description": "ब्राउज़र में audio record करें और एक link बनाएँ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "negocio",
+      "title": "Sales और social networks",
+      "items": [
+        {
+          "name": "Calculadora de preço de venda",
+          "url": "https://mymarketing.click/tools/price-calculator",
+          "link": "https://go.mymarketing.click/ferr-calculadora-de-preco-de-venda",
+          "description": "आपके चाहे margin के हिसाब से बिक्री की कीमत, fees और taxes के साथ।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Calculadora de taxa de cartão e Pix",
+          "url": "https://myinfrastructure.click/tools/card-fee-calculator",
+          "link": "https://go.mymarketing.click/ferr-calculadora-de-taxa-de-cartao-e-pix",
+          "description": "बिक्री की शुद्ध राशि और वह कीमत जो card और Pix पर आपके provider की fee को कवर करे।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Calculadora do Cidadão",
+          "url": "https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores",
+          "link": "https://go.mymarketing.click/ferr-calculadora-do-cidadao",
+          "description": "Banco Central के अनुसार मूल्यों को inflation के हिसाब से समायोजित करें।",
+          "tags": [
+            "gratis",
+            "oficial"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de link com UTM",
+          "url": "https://myoperations.click/tools/utm-builder",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-link-com-utm",
+          "description": "utm_source, utm_medium और utm_campaign के साथ link बनाएँ, ताकि पता चले कि कौन सी post, email या ad visit लाया।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de link de WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-link",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-link-de-whatsapp",
+          "description": "wa.me link, पहले से लिखे message के साथ, और print करने के लिए QR code, तुरंत।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Limpar lista de contatos",
+          "url": "https://mycustomers.click/tools/contact-list-cleaner",
+          "link": "https://go.mymarketing.click/ferr-limpar-lista-de-contatos",
+          "description": "+55 और DDD वाले फ़ोन नंबर, नौवाँ अंक वापस जोड़कर और duplicates हटाकर, एक ही spreadsheet में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Nome, descrição e regras para grupo",
+          "url": "https://myoperations.click/tools/community-rules",
+          "link": "https://go.mymarketing.click/ferr-nome-descricao-e-regras-para-grupo",
+          "description": "group के प्रकार के हिसाब से नाम के विचार, description और WhatsApp, Telegram या Discord पर चिपकाने के लिए तैयार नियम।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página de link na bio",
+          "url": "https://mymarketing.click/tools/link-in-bio",
+          "link": "https://go.mymarketing.click/ferr-pagina-de-link-na-bio",
+          "description": "आपके लिंक वाला पेज, मोबाइल पर देखने और डाउनलोड करने के लिए तैयार।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "QR Code do WhatsApp",
+          "url": "https://mycustomers.click/tools/whatsapp-qr-code",
+          "link": "https://go.mymarketing.click/ferr-qr-code-do-whatsapp",
+          "description": "आपकी WhatsApp बातचीत खोलने वाला QR Code, तैयार संदेश के साथ, PNG या SVG में प्रिंट करने के लिए।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "organizar",
+      "title": "व्यवस्थित करें और सोचें",
+      "items": [
+        {
+          "name": "draw.io",
+          "url": "https://app.diagrams.net/",
+          "link": "https://go.mymarketing.click/ferr-draw-io",
+          "description": "डायग्राम और फ़्लोचार्ट, जहाँ चाहें वहाँ सेव करें।",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "link": "https://go.mymarketing.click/ferr-excalidraw",
+          "description": "खुला स्रोत वाला हाथ से लिखने जैसा व्हाइटबोर्ड।",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Fusos horários",
+          "url": "https://ciromaciel.click/tools/compare-timezones",
+          "link": "https://go.mymarketing.click/ferr-fusos-horarios",
+          "description": "कई शहरों का समय एक साथ दिखाता है और अलग-अलग समय क्षेत्रों में मीटिंग का समय ढूँढता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Mapas mentais",
+          "url": "https://ciromaciel.click/tools/mindmaps",
+          "link": "https://go.mymarketing.click/ferr-mapas-mentais",
+          "description": "ब्राउज़र में माइंड मैप, बिना साइन-अप के।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "tldraw",
+          "url": "https://www.tldraw.com/",
+          "link": "https://go.mymarketing.click/ferr-tldraw",
+          "description": "ब्राउज़र में असीमित व्हाइटबोर्ड।",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ia",
+      "title": "AI",
+      "items": [
+        {
+          "name": "Contador de tokens",
+          "url": "https://myagents.click/tools/token-counter",
+          "link": "https://go.mymarketing.click/ferr-contador-de-tokens",
+          "description": "कोई टेक्स्ट चिपकाएँ और देखें कि उसमें कितने टोकन हैं और संदर्भ विंडो में वे कितनी जगह लेते हैं, ब्राउज़र में।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Gerador de prompt de agente",
+          "url": "https://myagents.click/tools/agent-prompt-generator",
+          "link": "https://go.mymarketing.click/ferr-gerador-de-prompt-de-agente",
+          "description": "पाँच जवाब एजेंट के निर्देश बन जाते हैं, चिपकाने के लिए तैयार।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Página em Markdown",
+          "url": "https://ciromaciel.click/tools/web-to-markdown",
+          "link": "https://go.mymarketing.click/ferr-pagina-em-markdown",
+          "description": "किसी वेब पेज को साफ़ Markdown में बदलता है, बिना मेन्यू और विज्ञापन के, AI में चिपकाने के लिए तैयार।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Testar um servidor MCP",
+          "url": "https://myagents.click/tools/mcp-server-test",
+          "link": "https://go.mymarketing.click/ferr-testar-um-servidor-mcp",
+          "description": "पता चिपकाएँ और देखें कि वह जवाब देता है या नहीं, कौन से टूल हैं और लॉगिन माँगता है या नहीं।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Treine um GPT",
+          "url": "https://ciromaciel.click/tools/train-gpt",
+          "link": "https://go.mymarketing.click/ferr-treine-um-gpt",
+          "description": "ब्राउज़र में शुरू से एक छोटा भाषा मॉडल ट्रेन करता है और टोकन, ध्यान और न्यूरॉन दिखाता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "arquivos",
+      "title": "फ़ाइलें भेजें",
+      "items": [
+        {
+          "name": "PairDrop",
+          "url": "https://pairdrop.net/",
+          "link": "https://go.mymarketing.click/ferr-pairdrop",
+          "description": "एक ही नेटवर्क के उपकरणों के बीच फ़ाइलें भेजता है, खुला स्रोत।",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Transfer.it",
+          "url": "https://transfer.it/",
+          "link": "https://go.mymarketing.click/ferr-transfer-it",
+          "description": "MEGA से लिंक के ज़रिए बड़ी फ़ाइलें भेजता है।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Wormhole",
+          "url": "https://wormhole.app/",
+          "link": "https://go.mymarketing.click/ferr-wormhole",
+          "description": "एंड-टू-एंड एन्क्रिप्शन और समाप्त होने वाले लिंक के साथ बड़ी फ़ाइलें भेजें।",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
