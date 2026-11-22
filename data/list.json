@@ -162,6 +162,15 @@
                     "added": "2026-11-10"
                 },
                 {
+                    "name": "PDF Fan",
+                    "url": "https://pdf.fan/pt-br/imagem-para-pdf/",
+                    "description": "Combina fotos em um PDF no navegador, sem cadastro, com opção de ordenar as páginas antes de converter.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-23"
+                },
+                {
                     "name": "PDF24 Tools",
                     "url": "https://tools.pdf24.org/pt/",
                     "description": "Juntar, dividir, comprimir, converter e assinar PDF, sem cadastro.",
